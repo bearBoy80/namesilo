@@ -3,7 +3,7 @@
 ## NameSilo 介绍
 NameSilo是一家知名的国际域名注册服务商，以低廉的价格、稳定的服务和免费的隐私保护功能闻名。NameSilo支持广泛的顶级域名（TLDs）注册，是许多用户首选的域名注册平台。
 
-![image](https://github.com/perryflanery774/NameSilo/assets/167602998/522e4d22-b6ba-4200-9444-77be7b7b8a9f)
+![image](./namesilo.webp)
 
 ## NameSilo 官网地址
 - [https://www.namesilo.com](https://www.namesilo.com/?rid=691b886ie)
